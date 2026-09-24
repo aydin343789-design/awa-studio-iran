@@ -13,6 +13,9 @@
     "build:android": "vite build"
   },
   "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/cli": "^8.5.2",
+    "@capacitor/core": "^8.5.2",
     "@tailwindcss/vite": "^4.1.0",
     "@vitejs/plugin-react-swc": "^3.10.2",
     "express": "^4.21.2",

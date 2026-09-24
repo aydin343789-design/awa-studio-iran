@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">آوای ایران آزاد</string>
+    <string name="title_activity_main">آوای ایران آزاد</string>
+    <string name="package_name">com.awa.iran</string>
+    <string name="custom_url_scheme">com.awa.iran</string>
+</resources>
